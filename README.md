@@ -1,3 +1,5 @@
+# Fire Safety System
+
 Arduino Fire Safety System
 
 Objective: The Arduino Fire Safety System is a life-saving project designed to detect smoke in 
